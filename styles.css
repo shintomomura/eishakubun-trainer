@@ -235,6 +235,27 @@ button.ghost:hover { background: var(--panel-2); }
   white-space: pre-wrap;
   word-break: break-word;
 }
+.alt-wrap {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--border);
+}
+.alt-label { margin-top: 4px; }
+.alt-list {
+  list-style: none;
+  padding: 0;
+  margin: 6px 0 14px;
+}
+.alt-list li {
+  font-size: clamp(15px, 3.6vw, 17px);
+  margin: 4px 0;
+  padding: 6px 10px;
+  background: rgba(56, 189, 248, 0.08);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
 .judge-row { display: flex; gap: 10px; flex-wrap: wrap; }
 .judge-ok { background: var(--ok); color: #06250e; }
 .judge-ok:hover { filter: brightness(1.06); }

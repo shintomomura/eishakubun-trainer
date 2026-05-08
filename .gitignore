@@ -4,3 +4,6 @@ Thumbs.db
 .idea/
 *.log
 node_modules/
+_sheet_*.csv
+_sheet_*.tsv
+_build_*.py

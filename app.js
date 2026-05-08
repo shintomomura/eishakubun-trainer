@@ -8,6 +8,8 @@
   const els = {
     ja: $('#ja'),
     en: $('#en'),
+    altWrap: $('#alt-wrap'),
+    altList: $('#alt-list'),
     answer: $('#answer'),
     revealRow: $('#reveal-row'),
     revealBtn: $('#reveal-btn'),
@@ -216,6 +218,18 @@
     els.problemId.textContent = idx >= 0 ? `#${idx + 1} / ${problems.length}` : `#${problems.length}`;
     els.ja.textContent = p.ja;
     els.en.textContent = p.en;
+    const alts = Array.isArray(p.enAlts) ? p.enAlts : [];
+    els.altList.innerHTML = '';
+    if (alts.length) {
+      for (const a of alts) {
+        const li = document.createElement('li');
+        li.textContent = a;
+        els.altList.appendChild(li);
+      }
+      els.altWrap.hidden = false;
+    } else {
+      els.altWrap.hidden = true;
+    }
     els.answer.value = '';
     els.revealRow.hidden = false;
     els.answerBlock.hidden = true;
@@ -301,19 +315,40 @@
     return 'h_' + h.toString(36);
   }
 
+  // 日本語の文字を含むかを判定（ひらがな/カタカナ/漢字）
+  function containsJapanese(s) {
+    return /[぀-ゟ゠-ヿ一-龯]/.test(s || '');
+  }
+
   function rowsToProblems(rows) {
-    // スプレッドシートはカラム順 [English, Japanese]
+    // 1行目で列の順序を自動判定
+    // 新フォーマット: A=日本語, B=英語(主), C/D/...=英語(別表現)
+    // 旧フォーマット: A=英語, B=日本語
     const out = [];
     const seen = new Set();
+    let jaFirst = null;
     for (const r of rows) {
       if (!r || r.length < 2) continue;
-      const en = (r[0] || '').trim();
-      const ja = (r[1] || '').trim();
-      if (!en || !ja) continue;
-      const id = stableId(ja, en);
+      const c0 = (r[0] || '').trim();
+      const c1 = (r[1] || '').trim();
+      if (!c0 || !c1) continue;
+      if (jaFirst === null) {
+        jaFirst = containsJapanese(c0) && !containsJapanese(c1);
+      }
+      const ja = jaFirst ? c0 : c1;
+      const enPrimary = jaFirst ? c1 : c0;
+      const enAlts = [];
+      if (jaFirst) {
+        for (let k = 2; k < r.length; k++) {
+          const v = (r[k] || '').trim();
+          if (v) enAlts.push(v);
+        }
+      }
+      if (!ja || !enPrimary) continue;
+      const id = stableId(ja, enPrimary);
       if (seen.has(id)) continue;
       seen.add(id);
-      out.push({ id, ja, en });
+      out.push({ id, ja, en: enPrimary, enAlts });
     }
     return out;
   }
