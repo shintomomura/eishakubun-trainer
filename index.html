@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1f2937">
+<title>瞬間英作文トレーナー</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>瞬間英作文トレーナー</h1>
+  <div class="modes">
+    <button class="mode-btn" data-mode="all" aria-pressed="true">通常モード</button>
+    <button class="mode-btn" data-mode="review">復習モード <span class="badge" id="wrong-count">0</span></button>
+  </div>
+</header>
+
+<main id="app">
+  <section class="status">
+    <div class="progress-row">
+      <span id="progress-label">- / -</span>
+      <span class="dot" aria-hidden="true">·</span>
+      <span id="score-label">○0 / ×0</span>
+      <span class="dot" aria-hidden="true">·</span>
+      <button id="reset-btn" class="link-btn" type="button">最初から</button>
+    </div>
+    <div class="bar"><div id="progress-bar"></div></div>
+  </section>
+
+  <section id="card" class="card">
+    <div class="card-header">
+      <span id="problem-id" class="problem-id">#-</span>
+      <span id="mode-label" class="mode-label">通常モード</span>
+    </div>
+    <p id="ja" class="ja">問題を読み込み中...</p>
+
+    <textarea id="answer" placeholder="ここに英文を入力（任意）" autocomplete="off" autocapitalize="sentences" spellcheck="false" rows="2"></textarea>
+
+    <div id="reveal-row" class="row">
+      <button id="reveal-btn" class="primary" type="button">答えを見る</button>
+      <button id="skip-btn" class="ghost" type="button">スキップ</button>
+    </div>
+
+    <div id="answer-block" class="answer-block" hidden>
+      <div class="en-label">正解</div>
+      <p id="en" class="en"></p>
+      <div class="judge-row">
+        <button id="ng-btn" class="judge-ng" type="button">× できなかった</button>
+        <button id="ok-btn" class="judge-ok" type="button">○ できた</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="finished" class="finished" hidden>
+    <h2 id="finish-title">お疲れさまでした！</h2>
+    <p id="finish-msg"></p>
+    <div class="row">
+      <button id="goto-review" class="primary" type="button">復習モードへ</button>
+      <button id="restart-btn" class="ghost" type="button">もう一度（全問）</button>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <small>
+    <span>進捗はこのブラウザに保存されます。</span>
+    <button id="clear-storage" class="link-btn" type="button">学習データをリセット</button>
+  </small>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
