@@ -212,7 +212,8 @@
       return;
     }
     showCard();
-    els.problemId.textContent = `#${p.id}`;
+    const idx = problems.findIndex((x) => x.id === p.id);
+    els.problemId.textContent = idx >= 0 ? `#${idx + 1} / ${problems.length}` : `#${problems.length}`;
     els.ja.textContent = p.ja;
     els.en.textContent = p.en;
     els.answer.value = '';
@@ -262,18 +263,95 @@
     });
   }
 
-  async function loadProblems() {
-    try {
-      const r = await fetch('problems.json', { cache: 'no-cache' });
-      if (!r.ok) throw new Error('HTTP ' + r.status);
-      problems = await r.json();
-      if (!Array.isArray(problems) || problems.length === 0) {
-        throw new Error('problems.json is empty');
+  // CEO所有のGoogleスプレッドシート（公開: 閲覧のみ）
+  // 行を追加するだけで自動反映される。失敗したら同梱の problems.json にフォールバック。
+  const SHEET_CSV_URL =
+    'https://docs.google.com/spreadsheets/d/1PQknGfb_XYxUMydvWPgD3dBXi-bZqZIRvoZKqzbyElA/gviz/tq?tqx=out:csv&gid=0';
+
+  function parseCSV(text) {
+    const rows = [];
+    let i = 0, field = '', row = [], inQuotes = false;
+    while (i < text.length) {
+      const c = text[i];
+      if (inQuotes) {
+        if (c === '"') {
+          if (text[i + 1] === '"') { field += '"'; i += 2; continue; }
+          inQuotes = false; i++; continue;
+        }
+        field += c; i++; continue;
       }
-    } catch (e) {
-      els.ja.textContent = '問題データの読み込みに失敗しました: ' + e.message;
-      throw e;
+      if (c === '"') { inQuotes = true; i++; continue; }
+      if (c === ',') { row.push(field); field = ''; i++; continue; }
+      if (c === '\n') { row.push(field); rows.push(row); field = ''; row = []; i++; continue; }
+      if (c === '\r') { i++; continue; }
+      field += c; i++;
     }
+    if (field.length || row.length) { row.push(field); rows.push(row); }
+    return rows;
+  }
+
+  // 内容ベースの安定ID。FNV-1a 32bit。行を入れ替え／削除しても同じ問題は同じIDを保つ
+  function stableId(ja, en) {
+    const s = ja + '' + en;
+    let h = 0x811c9dc5;
+    for (let i = 0; i < s.length; i++) {
+      h ^= s.charCodeAt(i);
+      h = (h + ((h << 1) + (h << 4) + (h << 7) + (h << 8) + (h << 24))) >>> 0;
+    }
+    return 'h_' + h.toString(36);
+  }
+
+  function rowsToProblems(rows) {
+    // スプレッドシートはカラム順 [English, Japanese]
+    const out = [];
+    const seen = new Set();
+    for (const r of rows) {
+      if (!r || r.length < 2) continue;
+      const en = (r[0] || '').trim();
+      const ja = (r[1] || '').trim();
+      if (!en || !ja) continue;
+      const id = stableId(ja, en);
+      if (seen.has(id)) continue;
+      seen.add(id);
+      out.push({ id, ja, en });
+    }
+    return out;
+  }
+
+  async function fetchFromSheet() {
+    const r = await fetch(SHEET_CSV_URL, { cache: 'no-cache' });
+    if (!r.ok) throw new Error('Sheet HTTP ' + r.status);
+    const text = await r.text();
+    const rows = parseCSV(text);
+    const list = rowsToProblems(rows);
+    if (!list.length) throw new Error('Sheet returned no usable rows');
+    return list;
+  }
+
+  async function fetchFromBundle() {
+    const r = await fetch('problems.json', { cache: 'no-cache' });
+    if (!r.ok) throw new Error('bundle HTTP ' + r.status);
+    const list = await r.json();
+    if (!Array.isArray(list) || list.length === 0) throw new Error('bundle is empty');
+    return list;
+  }
+
+  async function loadProblems() {
+    let source = 'sheet';
+    try {
+      problems = await fetchFromSheet();
+    } catch (sheetErr) {
+      console.warn('Live sheet fetch failed; falling back to bundled problems.json', sheetErr);
+      try {
+        problems = await fetchFromBundle();
+        source = 'bundle';
+      } catch (bundleErr) {
+        els.ja.textContent =
+          '問題データの読み込みに失敗しました（' + sheetErr.message + ' / ' + bundleErr.message + '）';
+        throw bundleErr;
+      }
+    }
+    return source;
   }
 
   function pruneStaleQueueRefs() {
