@@ -3,13 +3,18 @@
     "id": "h_entdv4",
     "ja": "こどものけんかのとき、やめなさい！ ３もじ",
     "en": "Cut it out!",
-    "enAlts": []
+    "enAlts": [
+      "Knock it off!",
+      "Stop it!"
+    ]
   },
   {
     "id": "h_5c8cnc",
     "ja": "彼は食べる物にうるさい",
     "en": "He is particular about food.",
-    "enAlts": []
+    "enAlts": [
+      "He is picky about food."
+    ]
   },
   {
     "id": "h_f4t734",
@@ -24,10 +29,12 @@
     "enAlts": []
   },
   {
-    "id": "h_pdjh9p",
-    "ja": "何様のつもり？（きつい）　よくそんなことできるね",
-    "en": "Who do you think you are? How dare you do that?",
-    "enAlts": []
+    "id": "h_muecqn",
+    "ja": "何様のつもり？(きつい)　よくそんなことできるね",
+    "en": "Who do you think you are?",
+    "enAlts": [
+      "How dare you do that?"
+    ]
   },
   {
     "id": "h_e72d7f",
@@ -42,27 +49,29 @@
     "enAlts": []
   },
   {
-    "id": "h_1s6i39r",
+    "id": "h_wb7wvo",
     "ja": "足がむくんでいます",
-    "en": "my feets are swollen",
+    "en": "My feet are swollen.",
     "enAlts": []
   },
   {
-    "id": "h_1i3kcpw",
+    "id": "h_qwzuqt",
     "ja": "子供をそだてています。トマトをそだてています。",
-    "en": "I'm raising kids. I'm growing tomatos.",
+    "en": "I'm raising kids. I'm growing tomatoes.",
     "enAlts": []
   },
   {
-    "id": "h_x3qx8k",
+    "id": "h_17dmvge",
     "ja": "理由をきかれて、ただなんとなくとこたえるとき",
-    "en": "just because",
-    "enAlts": []
+    "en": "Just because.",
+    "enAlts": [
+      "No particular reason."
+    ]
   },
   {
-    "id": "h_1spj8q7",
+    "id": "h_id31j7",
     "ja": "私たちはなんとか合意できた",
-    "en": "We maneged to reach an agreement.",
+    "en": "We managed to reach an agreement.",
     "enAlts": []
   },
   {
@@ -72,9 +81,9 @@
     "enAlts": []
   },
   {
-    "id": "h_1ejid85",
+    "id": "h_1fwso8y",
     "ja": "私は直感的に感じた。大谷翔平は本物だ。",
-    "en": "I felt intuitibly that Shohei Ohtani was the real deal.",
+    "en": "I felt intuitively that Shohei Ohtani was the real deal.",
     "enAlts": []
   },
   {
@@ -84,16 +93,18 @@
     "enAlts": []
   },
   {
-    "id": "h_1mefarx",
-    "ja": "彼が即興でやってるのは明らかだよね。大分苦しんでいるよ（ポジティブにトライしている）",
-    "en": "he’s winging it obviously. He is struggling.",
+    "id": "h_q6g30r",
+    "ja": "彼が即興でやってるのは明らかだよね。大分苦しんでいるよ(ポジティブにトライしている)",
+    "en": "He's winging it obviously. He is struggling.",
     "enAlts": []
   },
   {
-    "id": "h_nkmzqv",
+    "id": "h_10h9wz9",
     "ja": "その書類、明日提出しなければならないのですよ。提出を２つの表現で",
-    "en": "You have to hand in the papers tomorrow.　submit",
-    "enAlts": []
+    "en": "You have to hand in the papers tomorrow.",
+    "enAlts": [
+      "You have to submit the papers tomorrow."
+    ]
   },
   {
     "id": "h_p7fd0e",
@@ -135,13 +146,17 @@
     "id": "h_qqd4lj",
     "ja": "私は入院しないといけませんか？",
     "en": "Do I need to be hospitalized?",
-    "enAlts": []
+    "enAlts": [
+      "Do I need to stay in the hospital?"
+    ]
   },
   {
-    "id": "h_1fou73g",
+    "id": "h_11ba6zq",
     "ja": "鼻が詰まるんです。",
-    "en": "My nose is stuffy",
-    "enAlts": []
+    "en": "My nose is stuffy.",
+    "enAlts": [
+      "I have a stuffy nose."
+    ]
   },
   {
     "id": "h_63q3vl",
@@ -150,10 +165,12 @@
     "enAlts": []
   },
   {
-    "id": "h_tkaw4b",
+    "id": "h_1m3797x",
     "ja": "ふざけたこといわないでよ",
-    "en": "Don’t be silly",
-    "enAlts": []
+    "en": "Don't be silly.",
+    "enAlts": [
+      "Don't be ridiculous."
+    ]
   },
   {
     "id": "h_hzifjw",
@@ -168,8 +185,8 @@
     "enAlts": []
   },
   {
-    "id": "h_kr6bby",
-    "ja": "東大に受けった",
+    "id": "h_18578bo",
+    "ja": "東大に受かった",
     "en": "I got into Todai.",
     "enAlts": []
   },
@@ -180,22 +197,26 @@
     "enAlts": []
   },
   {
-    "id": "h_1ndi132",
+    "id": "h_9lsx9j",
     "ja": "顔の特徴、台所の調理器具",
-    "en": "facial feture, utensil",
+    "en": "facial feature, utensil",
     "enAlts": []
   },
   {
-    "id": "h_1b5mzo7",
+    "id": "h_95yedq",
     "ja": "資料を会議で配る 　２つの表現",
-    "en": "hand out the documents, distribute documents",
-    "enAlts": []
+    "en": "hand out the documents",
+    "enAlts": [
+      "distribute the documents"
+    ]
   },
   {
-    "id": "h_69arfz",
+    "id": "h_a3fw5r",
     "ja": "進捗おしえて",
-    "en": "keep me posted.",
-    "enAlts": []
+    "en": "Keep me posted.",
+    "enAlts": [
+      "Let me know how it's going."
+    ]
   },
   {
     "id": "h_izc536",
@@ -216,10 +237,12 @@
     "enAlts": []
   },
   {
-    "id": "h_i38cd9",
-    "ja": "子供の面倒をみる義務がある（義務をカジュアルと、裁判所などの言い方両方で）",
-    "en": "I have an obligation to look after my children",
-    "enAlts": []
+    "id": "h_1b63ww9",
+    "ja": "子供の面倒をみる義務がある(義務をカジュアルと、裁判所などの言い方両方で)",
+    "en": "I have an obligation to look after my children.",
+    "enAlts": [
+      "I have a duty to look after my children."
+    ]
   },
   {
     "id": "h_1px4rqq",
@@ -228,40 +251,48 @@
     "enAlts": []
   },
   {
-    "id": "h_ma9apc",
+    "id": "h_saode8",
     "ja": "気のせいですを２通り",
-    "en": "It's just in your head. it’s just your imagination.",
-    "enAlts": []
+    "en": "It's just in your head.",
+    "enAlts": [
+      "It's just your imagination."
+    ]
   },
   {
-    "id": "h_8sp801",
-    "ja": "今回は見逃す（スライドさせる）けど、もうやらないでね。",
+    "id": "h_18w7w01",
+    "ja": "今回は見逃す(スライドさせる)けど、もうやらないでね。",
     "en": "I'm gonna let it slide this time, but don't do that again.",
     "enAlts": []
   },
   {
-    "id": "h_1j679f2",
+    "id": "h_1tbwi03",
     "ja": "とりあえずコーラで。飲食の「とりあえず」　とりあえず注文は以上で。",
-    "en": "I'll take a coke for now.　That's it for now.",
-    "enAlts": []
+    "en": "I'll take a coke for now.",
+    "enAlts": [
+      "That's it for now."
+    ]
   },
   {
-    "id": "h_1aucnvv",
+    "id": "h_1mh8mwd",
     "ja": "妻は僕にそこに行かないように説得した",
-    "en": "My wife convinced me not to go there.　My wife persuaded me not to go there.",
-    "enAlts": []
+    "en": "My wife convinced me not to go there.",
+    "enAlts": [
+      "My wife persuaded me not to go there."
+    ]
   },
   {
-    "id": "h_8mrteq",
+    "id": "h_nf0249",
     "ja": "そのボトルはそこに穴があいていて、水がもれるよ。",
-    "en": "The bottole has a hole in the bottom, so water leaks out.",
+    "en": "The bottle has a hole in the bottom, so water leaks out.",
     "enAlts": []
   },
   {
-    "id": "h_i979al",
+    "id": "h_kfirh",
     "ja": "アメリカがロシアとウクライナの紛争を仲裁した。",
-    "en": "America mediated the conflict/dispute between russia and uklane.",
-    "enAlts": []
+    "en": "America mediated the conflict between Russia and Ukraine.",
+    "enAlts": [
+      "America mediated the dispute between Russia and Ukraine."
+    ]
   },
   {
     "id": "h_mqrfxa",
@@ -276,52 +307,62 @@
     "enAlts": []
   },
   {
-    "id": "h_18eq358",
+    "id": "h_n5b0mt",
     "ja": "ドライブいこうよ？そんなきぶんじゃない",
-    "en": "Why don't we go for a drive?　I'm not in the mood",
-    "enAlts": []
+    "en": "Why don't we go for a drive?",
+    "enAlts": [
+      "I'm not in the mood."
+    ]
   },
   {
     "id": "h_js7g1h",
     "ja": "私は、外科医になりたいです。",
     "en": "I would like to be a surgeon.",
-    "enAlts": []
+    "enAlts": [
+      "I want to be a surgeon."
+    ]
   },
   {
     "id": "h_36clvn",
     "ja": "どのチーム応援してる？",
     "en": "Which team are you rooting for?",
-    "enAlts": []
+    "enAlts": [
+      "Which team do you support?"
+    ]
   },
   {
     "id": "h_c49u3n",
     "ja": "あなたを傷つけるつもりはなかった",
     "en": "I didn't mean to hurt your feelings.",
-    "enAlts": []
+    "enAlts": [
+      "I didn't mean to hurt you."
+    ]
   },
   {
-    "id": "h_dm54bn",
+    "id": "h_8om8ak",
     "ja": "経費として使う",
-    "en": "use this mony as expenses",
+    "en": "use this money as expenses",
     "enAlts": []
   },
   {
-    "id": "h_gunqak",
+    "id": "h_1cvjdhq",
     "ja": "電車で化粧をしている女性をみた",
-    "en": "I saw a woman putting on makeup in the train.",
+    "en": "I saw a woman putting on makeup on the train.",
     "enAlts": []
   },
   {
-    "id": "h_1b97rzd",
+    "id": "h_1a50fqr",
     "ja": "感染した人々、計画停電、放置された家",
-    "en": "infected people scheduled blackout,abandaned house",
+    "en": "infected people, scheduled blackout, abandoned house",
     "enAlts": []
   },
   {
-    "id": "h_aa9j21",
+    "id": "h_1v0fjcl",
     "ja": "大げさですね",
-    "en": "You're exaggerating",
-    "enAlts": []
+    "en": "You're exaggerating.",
+    "enAlts": [
+      "You're being dramatic."
+    ]
   },
   {
     "id": "h_1ydjvmb",
@@ -330,10 +371,12 @@
     "enAlts": []
   },
   {
-    "id": "h_1s0s8hd",
+    "id": "h_14aswtr",
     "ja": "なつかしいなー。この歌はアメリカ生活を思い出す、あの頃が懐かしい",
-    "en": "That brings back memories.　This song reminds me of Life in America I miss those days.",
-    "enAlts": []
+    "en": "That brings back memories.",
+    "enAlts": [
+      "This song reminds me of life in America. I miss those days."
+    ]
   },
   {
     "id": "h_1ygozmk",
@@ -342,51 +385,61 @@
     "enAlts": []
   },
   {
-    "id": "h_nch1yc",
+    "id": "h_b3t9wx",
     "ja": "あなたの英語学習に対する情熱は感動的です。",
-    "en": "Your passion for learning Einglish is inspiring.",
+    "en": "Your passion for learning English is inspiring.",
     "enAlts": []
   },
   {
-    "id": "h_181qmlk",
+    "id": "h_1k41d90",
     "ja": "当然の結果だね２つ",
-    "en": "That's to be expected. natural consequence",
-    "enAlts": []
+    "en": "That's to be expected.",
+    "enAlts": [
+      "It's a natural consequence."
+    ]
   },
   {
-    "id": "h_19bihtz",
+    "id": "h_2kd5mz",
     "ja": "そんな年にみえません。",
-    "en": "You don't look your age",
+    "en": "You don't look your age.",
     "enAlts": []
   },
   {
-    "id": "h_nqswa",
+    "id": "h_fx52u8",
     "ja": "彼はいいかげんです。",
-    "en": "He is unreliable. He is irresponsible.",
-    "enAlts": []
+    "en": "He is unreliable.",
+    "enAlts": [
+      "He is irresponsible."
+    ]
   },
   {
     "id": "h_eci2sm",
     "ja": "つけあわせはなんですか？レストランで。",
     "en": "What comes with this?",
-    "enAlts": []
+    "enAlts": [
+      "What sides come with this?"
+    ]
   },
   {
     "id": "h_9170sw",
     "ja": "このスマホはコスパがよい",
     "en": "This smartphone is cost-effective.",
-    "enAlts": []
+    "enAlts": [
+      "This smartphone is good value for money."
+    ]
   },
   {
-    "id": "h_3uvtji",
+    "id": "h_1pyoza4",
     "ja": "ちょっと！適当なこと言わないで！",
-    "en": "Come on, don’t just say whatever!",
-    "enAlts": []
+    "en": "Come on, don't just say whatever!",
+    "enAlts": [
+      "Don't just say random things!"
+    ]
   },
   {
-    "id": "h_1u4rub8",
+    "id": "h_p5jwc2",
     "ja": "あたりまえとおもわないで",
-    "en": "Don’t take it for granted.",
+    "en": "Don't take it for granted.",
     "enAlts": []
   },
   {
@@ -396,27 +449,27 @@
     "enAlts": []
   },
   {
-    "id": "h_tpe7tn",
+    "id": "h_qy68i7",
     "ja": "昇進しました。だから、昇給しました。",
-    "en": "I got promoted, so i got a raise",
+    "en": "I got promoted, so I got a raise.",
     "enAlts": []
   },
   {
-    "id": "h_gbkxeo",
-    "ja": "彼は（行動が）だらしない。（見た目が）だらしない(a が必要)",
-    "en": "he is lazy. He is a slob.",
+    "id": "h_mqlzpc",
+    "ja": "彼は(行動が)だらしない。(見た目が)だらしない(a が必要)",
+    "en": "He is lazy. He is a slob.",
     "enAlts": []
   },
   {
-    "id": "h_1y8pvs7",
+    "id": "h_13st1kb",
     "ja": "彼女ははずかしそうにわらった",
-    "en": "She smiled shyly",
+    "en": "She smiled shyly.",
     "enAlts": []
   },
   {
-    "id": "h_1iqisih",
+    "id": "h_qskqog",
     "ja": "基本に忠実に！",
-    "en": "Stick to the basic",
+    "en": "Stick to the basics.",
     "enAlts": []
   },
   {
@@ -429,25 +482,33 @@
     "id": "h_acj8cx",
     "ja": "彼女は思いやりがある",
     "en": "She is thoughtful.",
-    "enAlts": []
+    "enAlts": [
+      "She is considerate."
+    ]
   },
   {
     "id": "h_1npz17",
     "ja": "今日はぜんぜんはかどらない。",
     "en": "I'm not productive today.",
-    "enAlts": []
+    "enAlts": [
+      "I'm not getting anything done today."
+    ]
   },
   {
-    "id": "h_ctgayu",
+    "id": "h_i50sme",
     "ja": "この日はあけておいて！",
-    "en": "keep this date free!",
-    "enAlts": []
+    "en": "Keep this date free!",
+    "enAlts": [
+      "Save the date!"
+    ]
   },
   {
-    "id": "h_2f1bv1",
+    "id": "h_7d70ex",
     "ja": "家計が大変です。",
-    "en": "The household budget is tough",
-    "enAlts": []
+    "en": "The household budget is tough.",
+    "enAlts": [
+      "Money is tight."
+    ]
   },
   {
     "id": "h_1nmajw6",
@@ -462,9 +523,9 @@
     "enAlts": []
   },
   {
-    "id": "h_163rgni",
+    "id": "h_85lzf8",
     "ja": "彼が現れるか見てみましょう。",
-    "en": "Let’s see if he shows up.",
+    "en": "Let's see if he shows up.",
     "enAlts": []
   },
   {
@@ -474,38 +535,42 @@
     "enAlts": []
   },
   {
-    "id": "h_1kes2j4",
+    "id": "h_1sm12cw",
     "ja": "あなたは弁護士をつれてきて無実を証明しなければならなくなるだろう。",
-    "en": "you'll have to bring in a lawyer to prove your innocence.",
+    "en": "You'll have to bring in a lawyer to prove your innocence.",
     "enAlts": []
   },
   {
-    "id": "h_1nzhxx9",
+    "id": "h_1ky29zx",
     "ja": "反省しなさい。食事に気を付けています。",
-    "en": "Think about what you did. i am watching what I eat.",
+    "en": "Think about what you did. I am watching what I eat.",
     "enAlts": []
   },
   {
-    "id": "h_17qdbh",
+    "id": "h_x3zvxt",
     "ja": "同じく！を２つ。",
-    "en": "same here ditto",
-    "enAlts": []
+    "en": "Same here.",
+    "enAlts": [
+      "Ditto."
+    ]
   },
   {
-    "id": "h_12qce88",
+    "id": "h_phsj7c",
     "ja": "重要とかじゃない、必須です。",
-    "en": "It’s not just important it’s essential",
+    "en": "It's not just important, it's essential.",
     "enAlts": []
   },
   {
     "id": "h_1v188d6",
     "ja": "この辺にお住まいですか",
     "en": "Are you from around here?",
-    "enAlts": []
+    "enAlts": [
+      "Do you live around here?"
+    ]
   },
   {
-    "id": "h_38zfdu",
-    "ja": "くつのかかとがすりへってる。（衣類などが使い古されている）",
+    "id": "h_11z82si",
+    "ja": "くつのかかとがすりへってる。(衣類などが使い古されている)",
     "en": "The heels of my shoes are worn out.",
     "enAlts": []
   },
@@ -516,10 +581,12 @@
     "enAlts": []
   },
   {
-    "id": "h_102lfdh",
+    "id": "h_1umhioo",
     "ja": "あいまいにいわず、明確な答えを頂戴",
-    "en": "Stop beating around the bush, give me a straight answer.　talk around と一緒",
-    "enAlts": []
+    "en": "Stop beating around the bush, give me a straight answer.",
+    "enAlts": [
+      "Stop talking around it, give me a straight answer."
+    ]
   },
   {
     "id": "h_19sw23w",
@@ -528,33 +595,39 @@
     "enAlts": []
   },
   {
-    "id": "h_1c8y9on",
+    "id": "h_mwv6pq",
     "ja": "ながれだまをくらった。　野良犬　捨て猫",
-    "en": "I chaught a stray.　stray dog　Abandoned cat",
-    "enAlts": []
+    "en": "I caught a stray.",
+    "enAlts": [
+      "stray dog, abandoned cat"
+    ]
   },
   {
-    "id": "h_a8g80e",
+    "id": "h_8ui7jj",
     "ja": "大至急！",
-    "en": "On the double.",
-    "enAlts": []
+    "en": "On the double!",
+    "enAlts": [
+      "ASAP!"
+    ]
   },
   {
-    "id": "h_n3hlle",
+    "id": "h_1prt52p",
     "ja": "もう少しバックして、停車してそしてクラクションをならして。",
-    "en": "Please back up your car little more, and pull over.　honk the horn",
+    "en": "Please back up your car a little more, pull over, and honk the horn.",
     "enAlts": []
   },
   {
-    "id": "h_aik9pb",
+    "id": "h_eoeb3w",
     "ja": "二日酔いですか？",
-    "en": "Do you have a hangover.",
-    "enAlts": []
+    "en": "Do you have a hangover?",
+    "enAlts": [
+      "Are you hungover?"
+    ]
   },
   {
-    "id": "h_1613stk",
+    "id": "h_1ssa3k9",
     "ja": "コーヒー飲みながら話そう",
-    "en": "Let's talk it over coffee.",
+    "en": "Let's talk over coffee.",
     "enAlts": []
   },
   {
@@ -564,16 +637,18 @@
     "enAlts": []
   },
   {
-    "id": "h_1rbhv9n",
+    "id": "h_kcxg15",
     "ja": "口論のあと、みゆきは結局泣いてしまった。",
-    "en": "after the argument with me, Miyuki ended up crying .",
+    "en": "After the argument with me, Miyuki ended up crying.",
     "enAlts": []
   },
   {
     "id": "h_1mx2jv0",
     "ja": "それは危険信号だね",
     "en": "It is a red flag.",
-    "enAlts": []
+    "enAlts": [
+      "That's a red flag."
+    ]
   },
   {
     "id": "h_16uzj4u",
@@ -582,15 +657,17 @@
     "enAlts": []
   },
   {
-    "id": "h_ia94k8",
+    "id": "h_f4e3r4",
     "ja": "だれもわるくない",
-    "en": "It’s nobody’s fault.",
-    "enAlts": []
+    "en": "It's nobody's fault.",
+    "enAlts": [
+      "No one is to blame."
+    ]
   },
   {
-    "id": "h_1itzj60",
+    "id": "h_1v9u0th",
     "ja": "軽井沢は東京より５度低い。これはあれより５０ドル安い。それは５倍高い。",
-    "en": "Karuizawa is 5 dgrees cooler than Tokyo. This is $50 cheaper than that. It is 5 times more expensive.",
+    "en": "Karuizawa is 5 degrees cooler than Tokyo. This is $50 cheaper than that. It is 5 times more expensive.",
     "enAlts": []
   },
   {
@@ -600,16 +677,18 @@
     "enAlts": []
   },
   {
-    "id": "h_v6nu77",
-    "ja": "辞書で（言葉の）意味をしらべる",
+    "id": "h_78yag3",
+    "ja": "辞書で(言葉の)意味をしらべる",
     "en": "look up the word in the dictionary",
     "enAlts": []
   },
   {
-    "id": "h_1rskkoq",
+    "id": "h_10pvaik",
     "ja": "歩いてすぐです",
-    "en": "It's a short walk",
-    "enAlts": []
+    "en": "It's a short walk.",
+    "enAlts": [
+      "It's within walking distance."
+    ]
   },
   {
     "id": "h_1li2vbs",
@@ -624,58 +703,68 @@
     "enAlts": []
   },
   {
-    "id": "h_1llevek",
+    "id": "h_chxzxf",
     "ja": "もしもお金持ちなら、お金何に使う？",
-    "en": "Let's say your were super-rich, what would you spend your mony on?",
+    "en": "Let's say you were super-rich, what would you spend your money on?",
     "enAlts": []
   },
   {
-    "id": "h_v8b291",
+    "id": "h_9p14wb",
     "ja": "ぶっつけ本番でやる。臨機応変にやる",
-    "en": "wing it. play it by ear.",
-    "enAlts": []
+    "en": "wing it",
+    "enAlts": [
+      "play it by ear"
+    ]
   },
   {
-    "id": "h_x2qwdv",
+    "id": "h_qbml4q",
     "ja": "この情報は極秘にしてください。彼の言葉を冗談と受け取った",
-    "en": "Please keep this information confidential.　I took his words as a joke.",
-    "enAlts": []
+    "en": "Please keep this information confidential.",
+    "enAlts": [
+      "I took his words as a joke."
+    ]
   },
   {
-    "id": "h_1js6na6",
+    "id": "h_1ttjz2o",
     "ja": "夜明けがみたい",
-    "en": "I want to see the dawn",
-    "enAlts": []
+    "en": "I want to see the dawn.",
+    "enAlts": [
+      "I want to see the sunrise."
+    ]
   },
   {
-    "id": "h_1yx0it4",
+    "id": "h_155f14",
     "ja": "熱中症に気を付けて！",
-    "en": "be careful of heat stroke.",
-    "enAlts": []
+    "en": "Be careful of heat stroke.",
+    "enAlts": [
+      "Watch out for heat stroke."
+    ]
   },
   {
-    "id": "h_tai7of",
+    "id": "h_3j6vmx",
     "ja": "20代のころは、いわゆるオタクでした。",
-    "en": "In my 20s, I was what we call an nerd.",
+    "en": "In my 20s, I was what we call a nerd.",
     "enAlts": []
   },
   {
-    "id": "h_7bhnd2",
+    "id": "h_glivua",
     "ja": "変圧器もってたらかして？",
-    "en": "Can I borrow a transformer, if you heve?",
+    "en": "Can I borrow a transformer, if you have one?",
     "enAlts": []
   },
   {
-    "id": "h_cbgyj6",
+    "id": "h_1q64rsk",
     "ja": "肩と首がこってる",
-    "en": "I have stiff shoulders and a stiff neck",
+    "en": "I have stiff shoulders and a stiff neck.",
     "enAlts": []
   },
   {
     "id": "h_1k7xbm2",
     "ja": "妻は相変わらず美しい",
     "en": "My wife is as beautiful as always.",
-    "enAlts": []
+    "enAlts": [
+      "My wife is as beautiful as ever."
+    ]
   },
   {
     "id": "h_1yf669q",
@@ -690,9 +779,9 @@
     "enAlts": []
   },
   {
-    "id": "h_yi132n",
+    "id": "h_187jg37",
     "ja": "道路は雪で凍っています",
-    "en": "The streets are frozen due to snow",
+    "en": "The streets are frozen due to snow.",
     "enAlts": []
   },
   {
@@ -702,28 +791,32 @@
     "enAlts": []
   },
   {
-    "id": "h_5se8la",
-    "ja": "いくつ目（の駅）ですか？",
+    "id": "h_6w0ewu",
+    "ja": "いくつ目(の駅)ですか？",
     "en": "How many stops is it?",
     "enAlts": []
   },
   {
-    "id": "h_x515pe",
+    "id": "h_108f1oi",
     "ja": "起きてる？",
-    "en": "are you up?",
-    "enAlts": []
+    "en": "Are you up?",
+    "enAlts": [
+      "Are you awake?"
+    ]
   },
   {
-    "id": "h_1urjxdc",
+    "id": "h_1rv2b8v",
     "ja": "彼女を夕食に連れていきました",
-    "en": "I took her out for dinner　take 人　out で外に連れ出す",
+    "en": "I took her out for dinner.",
     "enAlts": []
   },
   {
     "id": "h_2beg6s",
     "ja": "何とかしてあげよう。",
     "en": "I will see what I can do for you.",
-    "enAlts": []
+    "enAlts": [
+      "Let me see what I can do."
+    ]
   },
   {
     "id": "h_huw71b",
@@ -738,9 +831,9 @@
     "enAlts": []
   },
   {
-    "id": "h_1jl4zee",
+    "id": "h_xk0zpk",
     "ja": "ご自由にどうぞ　食べ物など",
-    "en": "Please help yourself",
+    "en": "Please help yourself.",
     "enAlts": []
   },
   {
@@ -753,54 +846,64 @@
     "id": "h_7sof3b",
     "ja": "腰が痛い、主語を人と腰でそれぞれ。",
     "en": "My back hurts.",
-    "enAlts": []
+    "enAlts": [
+      "I have a backache."
+    ]
   },
   {
-    "id": "h_omd6pn",
+    "id": "h_103hazf",
     "ja": "chatgptは私の仕事をより効率にしてくれる",
-    "en": "Chatgpt enables me to work efficiently.",
-    "enAlts": []
+    "en": "ChatGPT enables me to work efficiently.",
+    "enAlts": [
+      "ChatGPT makes my work more efficient."
+    ]
   },
   {
-    "id": "h_7dcisa",
+    "id": "h_1b9xhc3",
     "ja": "具体的を２つ",
-    "en": "specific concrete",
-    "enAlts": []
+    "en": "specific",
+    "enAlts": [
+      "concrete"
+    ]
   },
   {
-    "id": "h_8z6108",
+    "id": "h_j32gmb",
     "ja": "まぐれです。2つ表現",
-    "en": "It was a fluke. I got lucky.",
-    "enAlts": []
+    "en": "It was a fluke.",
+    "enAlts": [
+      "I got lucky."
+    ]
   },
   {
-    "id": "h_1hk05cu",
+    "id": "h_9vs1y1",
     "ja": "私は、正確な費用がわからない。だいたいのコストが知りたい",
-    "en": "I don't know the exact cost.　I’d like to know the approximate cost.",
-    "enAlts": []
+    "en": "I don't know the exact cost.",
+    "enAlts": [
+      "I'd like to know the approximate cost."
+    ]
   },
   {
-    "id": "h_14pk17",
+    "id": "h_ho1h5u",
     "ja": "悪い予感がする",
-    "en": "I have a bad feelng about this.",
+    "en": "I have a bad feeling about this.",
     "enAlts": []
   },
   {
-    "id": "h_1iulyft",
+    "id": "h_b5mwtx",
     "ja": "もし成功したら業界初です。",
-    "en": "If we success, it'l be an industory first.",
+    "en": "If we succeed, it'll be an industry first.",
     "enAlts": []
   },
   {
-    "id": "h_mldaqa",
+    "id": "h_s9mrg",
     "ja": "俺はテストに自信がある。あなたがテストに受かった自信がある。人前で話す自信がある。",
-    "en": "I am confident in the exam.  I am confident that you would pass the exam. I am confident of speaking in public.",
+    "en": "I am confident in the exam. I am confident that you would pass the exam. I am confident of speaking in public.",
     "enAlts": []
   },
   {
-    "id": "h_1j40e7d",
+    "id": "h_wfwqpx",
     "ja": "私は定期的にサウナに行きます",
-    "en": "I go to the sauna regularly",
+    "en": "I go to the sauna regularly.",
     "enAlts": []
   },
   {
@@ -819,12 +922,14 @@
     "id": "h_1a80z7e",
     "ja": "要点を言ってください。",
     "en": "Get to the point.",
-    "enAlts": []
+    "enAlts": [
+      "Cut to the chase."
+    ]
   },
   {
-    "id": "h_124bqfm",
-    "ja": "まぎらわしいですね。（付加疑問で）",
-    "en": "That's confusing,isn't it.",
+    "id": "h_t56ekx",
+    "ja": "まぎらわしいですね。(付加疑問で)",
+    "en": "That's confusing, isn't it?",
     "enAlts": []
   },
   {
@@ -837,7 +942,9 @@
     "id": "h_tidn1p",
     "ja": "仮のタイトル",
     "en": "tentative title",
-    "enAlts": []
+    "enAlts": [
+      "working title"
+    ]
   },
   {
     "id": "h_18giuzo",
@@ -846,9 +953,9 @@
     "enAlts": []
   },
   {
-    "id": "h_1es03oy",
+    "id": "h_1duy07o",
     "ja": "これ以上同意できない",
-    "en": "I couldn't agree more",
+    "en": "I couldn't agree more.",
     "enAlts": []
   },
   {
@@ -864,9 +971,9 @@
     "enAlts": []
   },
   {
-    "id": "h_ew29hy",
+    "id": "h_1pssn56",
     "ja": "貴重品をロッカーにあずけますか？",
-    "en": "Would you like to deposit your valuables in the locker.?",
+    "en": "Would you like to deposit your valuables in the locker?",
     "enAlts": []
   },
   {
@@ -882,40 +989,46 @@
     "enAlts": []
   },
   {
-    "id": "h_1cx8iul",
+    "id": "h_kywfpw",
     "ja": "不労所得があればなー。車の頭金が払えない",
-    "en": "I wish I had passive income.I can't pay the down payment of the car.",
-    "enAlts": []
+    "en": "I wish I had passive income.",
+    "enAlts": [
+      "I can't pay the down payment on the car."
+    ]
   },
   {
-    "id": "h_16jvjv6",
+    "id": "h_1sgo6d0",
     "ja": "コーヒーのむって言われたら、よろこんでって言うとき",
-    "en": "I'd love to",
-    "enAlts": []
+    "en": "I'd love to.",
+    "enAlts": [
+      "I'd be happy to."
+    ]
   },
   {
-    "id": "h_1o1xfex",
+    "id": "h_1b60kcz",
     "ja": "ここは、ホッキョクグマの生息域です",
-    "en": "This is a habitat of polar bears .",
+    "en": "This is a habitat of polar bears.",
     "enAlts": []
   },
   {
-    "id": "h_frm5gp",
+    "id": "h_ybv56t",
     "ja": "桜が満開ですね",
-    "en": "Cherry blossoms are in full bloom",
+    "en": "Cherry blossoms are in full bloom.",
     "enAlts": []
   },
   {
-    "id": "h_1tpcrxz",
+    "id": "h_8zzy8r",
     "ja": "ここに座ってからもう４５分も経ってます",
-    "en": "It has been 45 minutes since I sat down here",
+    "en": "It has been 45 minutes since I sat down here.",
     "enAlts": []
   },
   {
     "id": "h_1axwsqs",
     "ja": "注文は以上です",
     "en": "That'll do for now.",
-    "enAlts": []
+    "enAlts": [
+      "That's all for now."
+    ]
   },
   {
     "id": "h_1x69kf8",
@@ -936,9 +1049,9 @@
     "enAlts": []
   },
   {
-    "id": "h_1wu45o4",
+    "id": "h_arr9f2",
     "ja": "ヘンリーはこのクラスで２番目に背が高い生徒です",
-    "en": "Henry is the second tallest student in this class",
+    "en": "Henry is the second tallest student in this class.",
     "enAlts": []
   },
   {
@@ -951,13 +1064,17 @@
     "id": "h_1r1ypvq",
     "ja": "ちょい風邪気味です。",
     "en": "I have a slight cold.",
-    "enAlts": []
+    "enAlts": [
+      "I'm coming down with a cold."
+    ]
   },
   {
-    "id": "h_cfxozr",
+    "id": "h_i3rkjo",
     "ja": "お店で、何人ですか？３人です。",
-    "en": "we are theree.",
-    "enAlts": []
+    "en": "We are three.",
+    "enAlts": [
+      "A table for three, please."
+    ]
   },
   {
     "id": "h_1y1f2pw",
@@ -966,45 +1083,52 @@
     "enAlts": []
   },
   {
-    "id": "h_3iqc3k",
+    "id": "h_5jok2",
     "ja": "彼女は今日くるかなー",
-    "en": "I wonder if she’s coming today.",
+    "en": "I wonder if she's coming today.",
     "enAlts": []
   },
   {
-    "id": "h_13nmqii",
+    "id": "h_14gh320",
     "ja": "不良品",
-    "en": "faulty product,defective product dameged product",
-    "enAlts": []
+    "en": "faulty product",
+    "enAlts": [
+      "defective product",
+      "damaged product"
+    ]
   },
   {
-    "id": "h_1sxzsyr",
+    "id": "h_ui5ti8",
     "ja": "次の「国政選挙」は「有望な」野党に投票する",
-    "en": "I'm gonna vote for promising opposition party in the next national election.",
+    "en": "I'm gonna vote for a promising opposition party in the next national election.",
     "enAlts": []
   },
   {
-    "id": "h_h77j6t",
+    "id": "h_qzzs7l",
     "ja": "それは見ためより大変よ。それは話より簡単よ。",
-    "en": "It is harder than it looks. It is easier than it sounds",
+    "en": "It is harder than it looks. It is easier than it sounds.",
     "enAlts": []
   },
   {
     "id": "h_vrc0hx",
     "ja": "彼の話は、反論の余地がない",
     "en": "What he says leaves no room for objection.",
-    "enAlts": []
+    "enAlts": [
+      "What he says is irrefutable."
+    ]
   },
   {
     "id": "h_1ypn2rj",
     "ja": "見積について妥当だと思いますというとき",
     "en": "Sounds fair enough.",
-    "enAlts": []
+    "enAlts": [
+      "That seems reasonable."
+    ]
   },
   {
-    "id": "h_1qnlcco",
+    "id": "h_1mhray3",
     "ja": "雨がふったらどうする？",
-    "en": "What if it rains.",
+    "en": "What if it rains?",
     "enAlts": []
   },
   {
@@ -1014,22 +1138,24 @@
     "enAlts": []
   },
   {
-    "id": "h_2big1v",
-    "ja": "ショッピングモールなどに初めて来て、“ちょっといろいろ見て回ろう！”",
-    "en": "Let’s look around a bit!",
+    "id": "h_1ewjk76",
+    "ja": "ショッピングモールなどに初めて来て、\"ちょっといろいろ見て回ろう！\"",
+    "en": "Let's look around a bit!",
     "enAlts": []
   },
   {
-    "id": "h_gts3ks",
+    "id": "h_1gsww37",
     "ja": "8時間おきに3錠のんでください。",
-    "en": "take three tablets once evry eight hours.",
+    "en": "Take three tablets once every eight hours.",
     "enAlts": []
   },
   {
-    "id": "h_thozl2",
+    "id": "h_a6hi4l",
     "ja": "それは問題外です。故障中です。",
-    "en": "That's out of the question out of order",
-    "enAlts": []
+    "en": "That's out of the question.",
+    "enAlts": [
+      "Out of order."
+    ]
   },
   {
     "id": "h_1ac7jbu",
@@ -1038,57 +1164,67 @@
     "enAlts": []
   },
   {
-    "id": "h_1ck86zr",
+    "id": "h_q6xy2i",
     "ja": "既読スルーしないで、未読スルー",
-    "en": "Do't leave me on read　（on unread）",
-    "enAlts": []
+    "en": "Don't leave me on read.",
+    "enAlts": [
+      "leave me on unread"
+    ]
   },
   {
-    "id": "h_d0695",
+    "id": "h_gx9rgy",
     "ja": "さすが！よく知ってるね！",
-    "en": "I’m impressed !　You know everything.",
-    "enAlts": []
+    "en": "I'm impressed!",
+    "enAlts": [
+      "You know everything!"
+    ]
   },
   {
-    "id": "h_1qccw3u",
+    "id": "h_c250s2",
     "ja": "終わったら言います。",
-    "en": "I’ll let you know when I’m done.",
+    "en": "I'll let you know when I'm done.",
     "enAlts": []
   },
   {
     "id": "h_wx4fql",
     "ja": "めまいがします。ふらふらします。",
     "en": "I feel dizzy.",
-    "enAlts": []
+    "enAlts": [
+      "I feel lightheaded."
+    ]
   },
   {
     "id": "h_11xkqj",
     "ja": "彼は陽気で、楽観的で、元気にあふれています",
     "en": "He is cheery and full of energy.",
-    "enAlts": []
+    "enAlts": [
+      "He is cheerful, optimistic, and full of energy."
+    ]
   },
   {
-    "id": "h_1009h3o",
+    "id": "h_1ahwai6",
     "ja": "私は占いを信じません",
-    "en": "i don't believe in fortune telling",
+    "en": "I don't believe in fortune telling.",
     "enAlts": []
   },
   {
-    "id": "h_oqmnph",
+    "id": "h_1frmctk",
     "ja": "彼女はしっかりしている、彼女はちょっとおもしろみがない、つまり普通",
-    "en": "She is very together.　She is a bit vanilla.",
-    "enAlts": []
+    "en": "She is very together.",
+    "enAlts": [
+      "She is a bit vanilla."
+    ]
   },
   {
-    "id": "h_50bcgu",
+    "id": "h_1k1n00q",
     "ja": "かみきった？とてもにあうよ",
-    "en": "Did you get your haircut? It looks great on you.",
+    "en": "Did you get a haircut? It looks great on you.",
     "enAlts": []
   },
   {
-    "id": "h_51v4wm",
+    "id": "h_hc32eo",
     "ja": "ベッドに入った直後にネタ",
-    "en": "I fell asleep as soon as I  got into bed.",
+    "en": "I fell asleep as soon as I got into bed.",
     "enAlts": []
   },
   {
@@ -1098,9 +1234,9 @@
     "enAlts": []
   },
   {
-    "id": "h_1io1dhv",
+    "id": "h_5rcv0k",
     "ja": "ピラミッドは時を超えた美しさがある",
-    "en": "I feel the timeless beauty of pyramids.",
+    "en": "I feel the timeless beauty of the pyramids.",
     "enAlts": []
   },
   {
@@ -1110,33 +1246,39 @@
     "enAlts": []
   },
   {
-    "id": "h_ku0733",
+    "id": "h_cf3tp9",
     "ja": "急に立ち上がるとめまいがします　最近忙しい？",
-    "en": "Lately, I feel dizzy when I stand up  quickly.　Have you been busy lately?",
-    "enAlts": []
+    "en": "Lately, I feel dizzy when I stand up quickly.",
+    "enAlts": [
+      "Have you been busy lately?"
+    ]
   },
   {
-    "id": "h_1bjloix",
+    "id": "h_lvl23l",
     "ja": "もう12月だなんて信じられません。",
-    "en": "I can’t believe it’s already December.",
+    "en": "I can't believe it's already December.",
     "enAlts": []
   },
   {
-    "id": "h_15lxv9n",
+    "id": "h_569jvb",
     "ja": "こっちきて冷たいビール飲まない？　できればそうしたいけど結構です。",
-    "en": "come over here and have some cold beer. I wish",
-    "enAlts": []
+    "en": "Come over here and have some cold beer.",
+    "enAlts": [
+      "I wish I could, but no thanks."
+    ]
   },
   {
     "id": "h_xsjzai",
     "ja": "彼女に拒否されました。",
     "en": "She said no.",
-    "enAlts": []
+    "enAlts": [
+      "She turned me down."
+    ]
   },
   {
-    "id": "h_zq1puk",
+    "id": "h_1jc19xo",
     "ja": "私は失うものはない、なんでもできる！",
-    "en": "I think I have nothing to lose, I can do anything what I want to do.",
+    "en": "I think I have nothing to lose, I can do anything I want to do.",
     "enAlts": []
   },
   {
@@ -1155,7 +1297,9 @@
     "id": "h_7mr71e",
     "ja": "彼のインスタ投稿は議論を呼んでいる",
     "en": "His post on Instagram is controversial.",
-    "enAlts": []
+    "enAlts": [
+      "His Instagram post is sparking debate."
+    ]
   },
   {
     "id": "h_15kxvbp",
@@ -1176,82 +1320,96 @@
     "enAlts": []
   },
   {
-    "id": "h_1pysrku",
+    "id": "h_ha4d7e",
     "ja": "加藤茶は、めちゃ年下と付き合う人",
-    "en": "Katoucha is a cradle snacher.",
+    "en": "Kato-cha is a cradle snatcher.",
     "enAlts": []
   },
   {
-    "id": "h_v4fcah",
+    "id": "h_154kkud",
     "ja": "盗難、窃盗犯、強盗、強盗犯、盗まれたもの、泥棒は家に簡単に侵入した。彼が怪しい",
-    "en": "theft, thief,robbery, robber,stolen items. The thief broke into the house easily.He looks suspicious.",
+    "en": "theft, thief, robbery, robber, stolen items. The thief broke into the house easily. He looks suspicious.",
     "enAlts": []
   },
   {
-    "id": "h_6oheui",
+    "id": "h_wtinkk",
     "ja": "あなたは英語の勉強ほんとうにやるきあるの？",
-    "en": "Do you really set your mind to study English?",
-    "enAlts": []
+    "en": "Do you really set your mind to studying English?",
+    "enAlts": [
+      "Are you really serious about studying English?"
+    ]
   },
   {
     "id": "h_4gp0ms",
     "ja": "めちゃ同意します",
     "en": "I totally agree with you.",
-    "enAlts": []
+    "enAlts": [
+      "I couldn't agree more."
+    ]
   },
   {
-    "id": "h_1og0bf5",
-    "ja": "知ってのとおり、彼はいつも間に合う（または、いつも時間通り）",
-    "en": "You know, he is always in time.  間に合う　on time　時間通り",
-    "enAlts": []
+    "id": "h_tfetgg",
+    "ja": "知ってのとおり、彼はいつも間に合う(または、いつも時間通り)",
+    "en": "You know, he is always in time.",
+    "enAlts": [
+      "You know, he is always on time."
+    ]
   },
   {
-    "id": "h_15yqrai",
+    "id": "h_3ulavt",
     "ja": "私たちは日本中に代理店が３０店舗あります。",
-    "en": "We have 30 agencies across Japan.　We have 30 agencies throughout Japan.",
-    "enAlts": []
+    "en": "We have 30 agencies across Japan.",
+    "enAlts": [
+      "We have 30 agencies throughout Japan."
+    ]
   },
   {
-    "id": "h_y5uj53",
+    "id": "h_1xg0ezo",
     "ja": "私は、期待してるよ。",
-    "en": "I'm counting you.",
+    "en": "I'm counting on you.",
     "enAlts": []
   },
   {
-    "id": "h_toekym",
-    "ja": "彼の言うことはいつも一貫性がない（一貫性がある）",
+    "id": "h_ukejry",
+    "ja": "彼の言うことはいつも一貫性がない(一貫性がある)",
     "en": "What he says is always inconsistent.",
-    "enAlts": []
+    "enAlts": [
+      "What he says is always consistent."
+    ]
   },
   {
-    "id": "h_r5bugz",
+    "id": "h_c03dgs",
     "ja": "英語を話す時、日本語イントネーションを強調してしまう。",
-    "en": "I can't help  emphasizing Japanese intonation when I speack English.",
+    "en": "I can't help emphasizing Japanese intonation when I speak English.",
     "enAlts": []
   },
   {
-    "id": "h_gia7y7",
+    "id": "h_1byby77",
     "ja": "丁寧な言い方で、ひとことで、かしこまりました。",
-    "en": "certainly",
+    "en": "Certainly.",
     "enAlts": []
   },
   {
-    "id": "h_ha865v",
+    "id": "h_1pficmi",
     "ja": "それはちょっと矛盾してると思うけど！",
-    "en": "I would saya that's a lilttle contradictory!",
+    "en": "I would say that's a little contradictory!",
     "enAlts": []
   },
   {
-    "id": "h_148849c",
+    "id": "h_sk3xpx",
     "ja": "ちゃんと座りなさい！",
-    "en": "Sit down straight. straightはきちんとという意味がある",
-    "enAlts": []
+    "en": "Sit down straight.",
+    "enAlts": [
+      "Sit up straight."
+    ]
   },
   {
     "id": "h_1wple1e",
     "ja": "いちぬけた！",
     "en": "I'm out.",
-    "enAlts": []
+    "enAlts": [
+      "Count me out."
+    ]
   },
   {
     "id": "h_ii4r6w",
@@ -1275,42 +1433,50 @@
     "id": "h_izyj8l",
     "ja": "さらに説明したいのですが。フォーマルとカジュアル。",
     "en": "I would like to explain further.",
-    "enAlts": []
+    "enAlts": [
+      "Let me explain more."
+    ]
   },
   {
-    "id": "h_jzg6uo",
+    "id": "h_134l62y",
     "ja": "いい調子だね！",
-    "en": "You’re on a roll.",
-    "enAlts": []
+    "en": "You're on a roll.",
+    "enAlts": [
+      "You're doing great!"
+    ]
   },
   {
     "id": "h_1r3ifqs",
     "ja": "鏡にうつった自分をみる。",
     "en": "I look in the mirror.",
-    "enAlts": []
+    "enAlts": [
+      "I look at myself in the mirror."
+    ]
   },
   {
-    "id": "h_1xqbzxq",
+    "id": "h_sfn4yn",
     "ja": "仮のタイトルは、あああです。",
-    "en": "tentative title is aaa",
+    "en": "The tentative title is aaa.",
     "enAlts": []
   },
   {
-    "id": "h_xlgpui",
+    "id": "h_cefa65",
     "ja": "大きくなったねー。成長したねー。",
-    "en": "Wow You've grown",
-    "enAlts": []
+    "en": "Wow, you've grown!",
+    "enAlts": [
+      "You've gotten so big!"
+    ]
   },
   {
-    "id": "h_1gwz0sm",
+    "id": "h_kvl7cz",
     "ja": "そこにいるついでにコーヒー買ってきて。",
-    "en": "Could you pick a cup of coffee for me while you are there?",
+    "en": "Could you pick up a cup of coffee for me while you are there?",
     "enAlts": []
   },
   {
-    "id": "h_o6z6nr",
+    "id": "h_1gh0557",
     "ja": "突然そのカップルは俺の前で喧嘩はじめた。めっちゃきまずかった",
-    "en": "Suddenly, The couple began to argue in front of me. so that was super-awkward!めっちゃ気まずかった。",
+    "en": "Suddenly, the couple began to argue in front of me. That was super-awkward!",
     "enAlts": []
   },
   {
@@ -1323,13 +1489,17 @@
     "id": "h_1yedeh9",
     "ja": "論外です！",
     "en": "That's out of the question.",
-    "enAlts": []
+    "enAlts": [
+      "Absolutely not."
+    ]
   },
   {
     "id": "h_1dh3kh2",
     "ja": "急がなくていいよ",
     "en": "There's no rush.",
-    "enAlts": []
+    "enAlts": [
+      "Take your time."
+    ]
   },
   {
     "id": "h_1hgxsic",
@@ -1338,34 +1508,40 @@
     "enAlts": []
   },
   {
-    "id": "h_1jeahy2",
+    "id": "h_1hgusgs",
     "ja": "スープは見た目よりかなりうまかった。",
-    "en": "The soup tasted much better than it looked",
+    "en": "The soup tasted much better than it looked.",
     "enAlts": []
   },
   {
-    "id": "h_k1tmvd",
+    "id": "h_1shvl8v",
     "ja": "ついに妻が妊娠した。でも、残念ながら、別の男が妊娠させたことがわかった。",
-    "en": "My wife finnaly got pregnant. But Unfortunately I found out another guy made her pregnant.",
+    "en": "My wife finally got pregnant. But unfortunately, I found out another guy made her pregnant.",
     "enAlts": []
   },
   {
     "id": "h_14noyt2",
     "ja": "スポーツなどで、その調子だ！ってさけぶとき",
     "en": "Way to go!",
-    "enAlts": []
+    "enAlts": [
+      "That's the way!"
+    ]
   },
   {
     "id": "h_16hd7ji",
     "ja": "わさび",
     "en": "horseradish",
-    "enAlts": []
+    "enAlts": [
+      "wasabi"
+    ]
   },
   {
     "id": "h_183no7d",
     "ja": "だいたいいくらですか？",
     "en": "About how much?",
-    "enAlts": []
+    "enAlts": [
+      "Roughly how much?"
+    ]
   },
   {
     "id": "h_15812q9",
@@ -1374,9 +1550,9 @@
     "enAlts": []
   },
   {
-    "id": "h_i0gcgj",
+    "id": "h_1kockvs",
     "ja": "その話はおいておいて、とにかく、大企業では目立つことができない",
-    "en": "Let's put it aside, Anyway, I can't stand out at large company",
+    "en": "Let's put it aside. Anyway, I can't stand out at a large company.",
     "enAlts": []
   },
   {
@@ -1392,51 +1568,57 @@
     "enAlts": []
   },
   {
-    "id": "h_esour6",
+    "id": "h_1c8xpjs",
     "ja": "明日の会議のためにパワポのスライドを準備しています。",
-    "en": "I am preparing the power point slide for tommorrow's meeting.",
+    "en": "I am preparing the PowerPoint slides for tomorrow's meeting.",
     "enAlts": []
   },
   {
-    "id": "h_1xdz474",
-    "ja": "家のまわりを散歩しているとき、しばしばグレイトなビジネス合いでを思い付く",
-    "en": "I often come up with an great business idea while I take a walk aroud the house.",
+    "id": "h_1s2mwwn",
+    "ja": "家のまわりを散歩しているとき、しばしばすばらしいビジネスアイデアを思い付く",
+    "en": "I often come up with a great business idea while I take a walk around the house.",
     "enAlts": []
   },
   {
-    "id": "h_7l2k73",
+    "id": "h_16s6gjn",
     "ja": "ポジティブでいることが幸せな人生のコツです。",
-    "en": "Being positive is the key to a happy life",
+    "en": "Being positive is the key to a happy life.",
     "enAlts": []
   },
   {
     "id": "h_1xhx4lk",
     "ja": "あったかいうちに食べてください",
     "en": "Please have it while it's warm.",
-    "enAlts": []
+    "enAlts": [
+      "Please eat it while it's hot."
+    ]
   },
   {
-    "id": "h_ek443v",
+    "id": "h_1k062jv",
     "ja": "従来の考えをすてる",
-    "en": "Abandon conventional thinking",
+    "en": "abandon conventional thinking",
     "enAlts": []
   },
   {
     "id": "h_1gxfnlw",
     "ja": "試食したあとに、からいです。控えてつくることできますか？",
     "en": "It is too spicy for me. Can you make it mild?",
-    "enAlts": []
+    "enAlts": [
+      "It is too spicy. Could you make it less spicy?"
+    ]
   },
   {
     "id": "h_zwttn7",
     "ja": "立て替えてくれますか？",
     "en": "Can you spot me?",
-    "enAlts": []
+    "enAlts": [
+      "Could you cover me for now?"
+    ]
   },
   {
-    "id": "h_1mnjn7r",
+    "id": "h_1hqwema",
     "ja": "英語を話すのに慣れた。慣れるのに半年かかった",
-    "en": "I get used to speacking English. It took 6 months to get used to it.",
+    "en": "I got used to speaking English. It took 6 months to get used to it.",
     "enAlts": []
   },
   {
@@ -1446,9 +1628,9 @@
     "enAlts": []
   },
   {
-    "id": "h_yjdrwo",
+    "id": "h_tgb6ld",
     "ja": "シャドウイングはスピーキングに効果的なんで、毎日少なくとも３０分やってます",
-    "en": "Shadowing would be effective at improving my speacking skill, so I do shadowing at least 30 minutes a day.",
+    "en": "Shadowing would be effective at improving my speaking skill, so I do shadowing at least 30 minutes a day.",
     "enAlts": []
   },
   {
@@ -1458,28 +1640,32 @@
     "enAlts": []
   },
   {
-    "id": "h_115drj",
+    "id": "h_1l5ops6",
     "ja": "知るわけないでしょ！ 誰も知らないよそんなこと",
-    "en": "How should I know?　Who knows?",
-    "enAlts": []
+    "en": "How should I know?",
+    "enAlts": [
+      "Who knows?"
+    ]
   },
   {
-    "id": "h_hz5ude",
+    "id": "h_1j0el17",
     "ja": "彼がくどいてくるけど、ちょっと演技くさい",
-    "en": "He is hitting on me, but he is a bit cheezy",
+    "en": "He is hitting on me, but he is a bit cheesy.",
     "enAlts": []
   },
   {
-    "id": "h_6uhp4e",
+    "id": "h_k4ie16",
     "ja": "ころぶ、よこになる",
-    "en": "fall down lie down",
+    "en": "fall down, lie down",
     "enAlts": []
   },
   {
     "id": "h_nmowu4",
     "ja": "会計は別々でいいですか？",
     "en": "Can we have separate checks, please?",
-    "enAlts": []
+    "enAlts": [
+      "Can we split the bill?"
+    ]
   },
   {
     "id": "h_h61eu0",
@@ -1488,51 +1674,59 @@
     "enAlts": []
   },
   {
-    "id": "h_1ny2r3z",
+    "id": "h_mbzek0",
     "ja": "私の手に負えません。２つ。",
-    "en": "It's beyond me.　it is out of my hand",
-    "enAlts": []
+    "en": "It's beyond me.",
+    "enAlts": [
+      "It's out of my hands."
+    ]
   },
   {
-    "id": "h_18zaq6f",
+    "id": "h_vaqkia",
     "ja": "母は娘がスマホで何をみているか監視している.",
-    "en": "Her mother monitors what she watchs on her smartphone",
+    "en": "Her mother monitors what she watches on her smartphone.",
     "enAlts": []
   },
   {
-    "id": "h_vp0cu6",
+    "id": "h_xlh541",
     "ja": "正直に話したことが実った、裏目に出た",
-    "en": "Being honest paid off. Being honest backfired.",
-    "enAlts": []
+    "en": "Being honest paid off.",
+    "enAlts": [
+      "Being honest backfired."
+    ]
   },
   {
     "id": "h_ficadj",
     "ja": "パスポートを再発行してください。発行してください。",
     "en": "Please reissue my passport.",
-    "enAlts": []
+    "enAlts": [
+      "Please issue my passport."
+    ]
   },
   {
     "id": "h_8x9fmt",
     "ja": "うれしそうだねなんかあった？といわれたとき、わかる～？っていう慣用句",
     "en": "Can you tell?",
-    "enAlts": []
+    "enAlts": [
+      "Is it that obvious?"
+    ]
   },
   {
-    "id": "h_15dzwxa",
+    "id": "h_cx3uxa",
     "ja": "控えめに自分の考えをいうとき。彼女は３０代前半かな。32ぐらい？",
-    "en": "I'd say she is in her early 30's. maybe 32?",
+    "en": "I'd say she is in her early 30's. Maybe 32?",
     "enAlts": []
   },
   {
-    "id": "h_1ix2pzt",
+    "id": "h_19ou4s9",
     "ja": "わざわざ来てくれてありがとう。",
-    "en": "Thank you for coming all the way here．",
+    "en": "Thank you for coming all the way here.",
     "enAlts": []
   },
   {
-    "id": "h_buec1m",
+    "id": "h_1a2mhfq",
     "ja": "人気のボーイバンド嵐が来春、解散する",
-    "en": "Popular boy band Arashi wil disband next spring",
+    "en": "Popular boy band Arashi will disband next spring.",
     "enAlts": []
   },
   {
@@ -1551,19 +1745,23 @@
     "id": "h_28nydl",
     "ja": "曇ってきたね。雨になりそうだ。",
     "en": "It's getting cloudy. It's gonna rain.",
-    "enAlts": []
+    "enAlts": [
+      "It's clouding over. It looks like rain."
+    ]
   },
   {
-    "id": "h_8jzjtg",
+    "id": "h_12qub8k",
     "ja": "私はマックを食べる習慣がない",
-    "en": "I don't usually eat at  Mcdanal.",
+    "en": "I don't usually eat at McDonald's.",
     "enAlts": []
   },
   {
-    "id": "h_1bw07x5",
+    "id": "h_1lpy6dl",
     "ja": "落ち着いた色と派手な色",
-    "en": "quiet colors　loud colors",
-    "enAlts": []
+    "en": "quiet colors",
+    "enAlts": [
+      "loud colors"
+    ]
   },
   {
     "id": "h_27kr3c",
@@ -1575,12 +1773,14 @@
     "id": "h_5gy5l4",
     "ja": "解約料金はかかりますか？",
     "en": "Do you charge any cancellation fee?",
-    "enAlts": []
+    "enAlts": [
+      "Is there a cancellation fee?"
+    ]
   },
   {
-    "id": "h_592leo",
+    "id": "h_1r6syi6",
     "ja": "チャンネルをかえていい？",
-    "en": "Can I switch channels ?",
+    "en": "Can I switch channels?",
     "enAlts": []
   },
   {
@@ -1596,21 +1796,21 @@
     "enAlts": []
   },
   {
-    "id": "h_1ajk7d2",
+    "id": "h_xoa01k",
     "ja": "ほめられたときに、軽く謙遜しながら、「たまにはおれもやるんだよ。」",
-    "en": "Well, I have my moments",
+    "en": "Well, I have my moments.",
     "enAlts": []
   },
   {
-    "id": "h_px1utd",
+    "id": "h_v51ixd",
     "ja": "悪気はないけど、という前置き",
-    "en": "No offence,",
+    "en": "No offense,",
     "enAlts": []
   },
   {
-    "id": "h_184ty33",
+    "id": "h_482y6q",
     "ja": "いつものように春休み１０日とるの？状況次第だね。",
-    "en": "Would you take 10 days off for spring berak as usual? It depends.　状況次第だね。",
+    "en": "Would you take 10 days off for spring break as usual? It depends.",
     "enAlts": []
   },
   {
@@ -1629,18 +1829,22 @@
     "id": "h_10tfpge",
     "ja": "カフェのオーダーで、同じものください。　この曲好き、私も",
     "en": "The same for me!",
-    "enAlts": []
+    "enAlts": [
+      "Same here."
+    ]
   },
   {
-    "id": "h_1wwdji",
+    "id": "h_o8fvk9",
     "ja": "彼はいつものように遅刻です、頻度をあげて２パターン",
-    "en": "He is late as usual. as always.",
-    "enAlts": []
+    "en": "He is late as usual.",
+    "enAlts": [
+      "He is late as always."
+    ]
   },
   {
-    "id": "h_11wl3od",
+    "id": "h_ypr0d",
     "ja": "あなたの会社はうちの子会社だ。つまり、うちの会社はあなたの親会社だ。",
-    "en": "Your company is a subsidiary of our company. It means Our company is a parent company of your company.",
+    "en": "Your company is a subsidiary of our company. It means our company is a parent company of your company.",
     "enAlts": []
   },
   {
@@ -1659,7 +1863,9 @@
     "id": "h_16bs449",
     "ja": "今週はスケジュールが詰まっている。",
     "en": "My schedule is full this week.",
-    "enAlts": []
+    "enAlts": [
+      "My schedule is packed this week."
+    ]
   },
   {
     "id": "h_nfojw7",
@@ -1668,10 +1874,12 @@
     "enAlts": []
   },
   {
-    "id": "h_1moh4fu",
+    "id": "h_1e9n6y0",
     "ja": "水とかお茶とか。スタッフを雇った",
-    "en": "water, tea, and stuff　I fired the staff(エの発音)",
-    "enAlts": []
+    "en": "water, tea, and stuff",
+    "enAlts": [
+      "I fired the staff."
+    ]
   },
   {
     "id": "h_m5yt6s",
@@ -1701,7 +1909,9 @@
     "id": "h_14icqhh",
     "ja": "あめがふりそうですね。",
     "en": "It looks like it's gonna rain.",
-    "enAlts": []
+    "enAlts": [
+      "It looks like rain."
+    ]
   },
   {
     "id": "h_151wg3c",
@@ -1716,9 +1926,9 @@
     "enAlts": []
   },
   {
-    "id": "h_qj8g7a",
+    "id": "h_hg3qvs",
     "ja": "日本は単一民族国家だから、私たちは「ちゃんと」多様性というものを理解していない",
-    "en": "You know Japan is a homogenous society, so we don't properly understand what the diversity is.",
+    "en": "You know Japan is a homogeneous society, so we don't properly understand what diversity is.",
     "enAlts": []
   },
   {
@@ -1731,72 +1941,78 @@
     "id": "h_1thhqn7",
     "ja": "私たちはキャンプで絆が深まった",
     "en": "We built strong bonds at the camp.",
-    "enAlts": []
+    "enAlts": [
+      "We bonded at the camp."
+    ]
   },
   {
-    "id": "h_1j4mxss",
+    "id": "h_105f95n",
     "ja": "この映画は見る価値がある、広島は訪れる価値がある",
-    "en": "This movie is worth watching.　Hiroshima is worth visiting.",
-    "enAlts": []
+    "en": "This movie is worth watching.",
+    "enAlts": [
+      "Hiroshima is worth visiting."
+    ]
   },
   {
-    "id": "h_3f3q3j",
+    "id": "h_1m63faj",
     "ja": "バスタブにつかる",
-    "en": "soak in the tub.",
+    "en": "soak in the tub",
     "enAlts": []
   },
   {
-    "id": "h_i0baaw",
+    "id": "h_113m8uo",
     "ja": "コンフォートゾーンを出ることは彼らにとって重要ですよね？",
-    "en": "It is important to leave their comfortzone,isn't it?",
+    "en": "It is important to leave their comfort zone, isn't it?",
     "enAlts": []
   },
   {
-    "id": "h_s6ju61",
+    "id": "h_115kqmx",
     "ja": "洋服の決まりはありますか？",
-    "en": "Do you have a dress code？",
+    "en": "Do you have a dress code?",
     "enAlts": []
   },
   {
-    "id": "h_1f0gjux",
+    "id": "h_10kkxgm",
     "ja": "今夜寿司たべにいこうや。生魚食えんのよ。そうか、じゃあラーメンは？",
-    "en": "Let's go out for Sushi to tonight. Actually, I don't like eating raw fish so much . fair enough how about ramen?",
+    "en": "Let's go out for sushi tonight. Actually, I don't like eating raw fish so much. Fair enough, how about ramen?",
     "enAlts": []
   },
   {
-    "id": "h_1i9tgd1",
+    "id": "h_tegqqv",
     "ja": "そんなことしちゃだめ、面倒なことになるよ。かあちゃん怒るよ",
-    "en": "Don't do that. You'll get into trouble.　Your mam will get angry at you.",
+    "en": "Don't do that. You'll get into trouble. Your mom will get angry at you.",
     "enAlts": []
   },
   {
-    "id": "h_qfxjks",
+    "id": "h_1wq9b1v",
     "ja": "間違って女性用トイレにはいった。一人の女性がさけびながら、気持ち悪いオタク！といった",
-    "en": "I entered the women’s bathroom by mistake. One women screamed Creepy nerd",
+    "en": "I entered the women's bathroom by mistake. One woman screamed, \"Creepy nerd!\"",
     "enAlts": []
   },
   {
     "id": "h_1lqetl9",
     "ja": "彼は有能です。",
     "en": "He is capable.",
-    "enAlts": []
+    "enAlts": [
+      "He is competent."
+    ]
   },
   {
-    "id": "h_2qyng8",
+    "id": "h_s7ce5n",
     "ja": "最近どう？最高です。最悪です。",
-    "en": "How's it going lately?  couldn't be better. couldn`t be worse",
+    "en": "How's it going lately? Couldn't be better. Couldn't be worse.",
     "enAlts": []
   },
   {
-    "id": "h_9gzf93",
+    "id": "h_vn7i1e",
     "ja": "正しいと思うことをやるべきです。",
-    "en": "you shuoud do what you think is right",
+    "en": "You should do what you think is right.",
     "enAlts": []
   },
   {
-    "id": "h_e1z95y",
+    "id": "h_1s2z5j9",
     "ja": "物価は顕著に上昇した",
-    "en": "cost of living went up significantly.",
+    "en": "The cost of living went up significantly.",
     "enAlts": []
   },
   {
@@ -1821,7 +2037,9 @@
     "id": "h_18pjhmq",
     "ja": "いったいなにがおこってるの？よく使うフレーズ",
     "en": "I don't know what's going on.",
-    "enAlts": []
+    "enAlts": [
+      "What on earth is going on?"
+    ]
   },
   {
     "id": "h_1ua4wiu",
@@ -1830,16 +2048,18 @@
     "enAlts": []
   },
   {
-    "id": "h_1ltunby",
+    "id": "h_13qicni",
     "ja": "会議は１０時からってきいた。　９時前にここに来るように言われた.あなたが就職したってみゆきから聞いた。",
-    "en": "I was told the meeting is at 10.I was told to be here before nine.I heard from Miyuki that you got a new job.",
+    "en": "I was told the meeting is at 10. I was told to be here before nine. I heard from Miyuki that you got a new job.",
     "enAlts": []
   },
   {
     "id": "h_ypjroi",
     "ja": "時間がないんです",
     "en": "I have no time to spare.",
-    "enAlts": []
+    "enAlts": [
+      "I'm short on time."
+    ]
   },
   {
     "id": "h_1nxb9mb",
@@ -1854,16 +2074,20 @@
     "enAlts": []
   },
   {
-    "id": "h_10kttsl",
+    "id": "h_1u1xic8",
     "ja": "ぜんぶたべなさい",
-    "en": "Eat up all.",
-    "enAlts": []
+    "en": "Eat it all up.",
+    "enAlts": [
+      "Finish your food."
+    ]
   },
   {
-    "id": "h_1ibalr8",
+    "id": "h_jqrhkv",
     "ja": "誤解しないでください　私を怒らせないで。",
-    "en": "Don't get me wrong　Don't get me angry",
-    "enAlts": []
+    "en": "Don't get me wrong.",
+    "enAlts": [
+      "Don't get me angry."
+    ]
   },
   {
     "id": "h_zah4o6",
@@ -1881,36 +2105,42 @@
     "id": "h_ad9r4u",
     "ja": "ファッションセンスがいいですね。ひとまとめ",
     "en": "You have a sense of style.",
-    "enAlts": []
+    "enAlts": [
+      "You have great fashion sense."
+    ]
   },
   {
     "id": "h_13fxxd4",
     "ja": "彼は努力より結果を重視している",
     "en": "He cares about results more than effort.",
-    "enAlts": []
+    "enAlts": [
+      "He values results over effort."
+    ]
   },
   {
     "id": "h_1ue7ugj",
     "ja": "それでこそあなただ",
     "en": "That's just like you.",
-    "enAlts": []
+    "enAlts": [
+      "That's so you."
+    ]
   },
   {
-    "id": "h_1c6im5e",
+    "id": "h_1fkfgh0",
     "ja": "この料金は何ですか？",
-    "en": "What's this charge for ?",
+    "en": "What's this charge for?",
     "enAlts": []
   },
   {
-    "id": "h_1tk9blp",
+    "id": "h_nju3bp",
     "ja": "3時にニューヨークにいるはずだったのに！",
-    "en": "I was suporsed to be in New York at 3pm",
+    "en": "I was supposed to be in New York at 3pm.",
     "enAlts": []
   },
   {
-    "id": "h_1wbrl09",
+    "id": "h_1q0kuqd",
     "ja": "この業界で共存しましょう",
-    "en": "Let's coexist in this industry",
+    "en": "Let's coexist in this industry.",
     "enAlts": []
   },
   {
@@ -1926,39 +2156,41 @@
     "enAlts": []
   },
   {
-    "id": "h_1ny2acn",
+    "id": "h_126awzc",
     "ja": "先生は毎朝出欠をとる",
-    "en": "Teacher takes attendance every morning.",
+    "en": "The teacher takes attendance every morning.",
     "enAlts": []
   },
   {
-    "id": "h_114zhy",
+    "id": "h_hpqnh1",
     "ja": "床を拭いて！　牛乳をふきとって！",
-    "en": "wipe the floor! wipe up milk!",
+    "en": "Wipe the floor! Wipe up the milk!",
     "enAlts": []
   },
   {
-    "id": "h_gci3k7",
+    "id": "h_sz8fm3",
     "ja": "閉め出された",
-    "en": "I was locked out",
+    "en": "I was locked out.",
     "enAlts": []
   },
   {
-    "id": "h_m8tsxa",
+    "id": "h_rs4k5s",
     "ja": "来週、大きなイベントが開催される。その準備で忙しい。もういっぱいいっぱいです。",
-    "en": "An big event will be held next week. I am pretty busy for preparing that. I'm swamped",
+    "en": "A big event will be held next week. I am pretty busy preparing for that. I'm swamped.",
     "enAlts": []
   },
   {
-    "id": "h_1tw7l4x",
+    "id": "h_ut069l",
     "ja": "熱いと冷たいは、対義語です。類義語です",
-    "en": "Hot and cold are antonyms.　synonyms.",
-    "enAlts": []
+    "en": "Hot and cold are antonyms.",
+    "enAlts": [
+      "Hot and cold are synonyms."
+    ]
   },
   {
-    "id": "h_1k1ttbd",
+    "id": "h_1fygs52",
     "ja": "われわれは、誕生パーティーに集まる。",
-    "en": "We get together for birthday party.",
+    "en": "We get together for a birthday party.",
     "enAlts": []
   },
   {
@@ -1968,46 +2200,56 @@
     "enAlts": []
   },
   {
-    "id": "h_1tisb0h",
+    "id": "h_1ydpogk",
     "ja": "介護は大変な仕事です。",
-    "en": "Caregiving is tough job.",
+    "en": "Caregiving is a tough job.",
     "enAlts": []
   },
   {
-    "id": "h_1dzvcff",
-    "ja": "（みれば）わかるよ！察することができるときの慣用句",
+    "id": "h_au3crv",
+    "ja": "(みれば)わかるよ！察することができるときの慣用句",
     "en": "I can tell.",
     "enAlts": []
   },
   {
-    "id": "h_1csrpxh",
+    "id": "h_10yo1mr",
     "ja": "そんな高い入場料払えない、乗り物料金",
-    "en": "I can't pay such an expensive admission fee. fare",
-    "enAlts": []
+    "en": "I can't pay such an expensive admission fee.",
+    "enAlts": [
+      "I can't pay such an expensive fare."
+    ]
   },
   {
-    "id": "h_19fjd62",
+    "id": "h_ftgs3w",
     "ja": "ひと晩考えさせて。よく考えるよ。",
-    "en": "Let me sleep on it.I will think it over.",
-    "enAlts": []
+    "en": "Let me sleep on it.",
+    "enAlts": [
+      "I will think it over."
+    ]
   },
   {
     "id": "h_1faisak",
     "ja": "要点を言ってくれ！",
     "en": "Get to the point.",
-    "enAlts": []
+    "enAlts": [
+      "Cut to the chase!"
+    ]
   },
   {
     "id": "h_11wp4lo",
     "ja": "失敗は成功のもと",
     "en": "Every failure is a stepping stone to success.",
-    "enAlts": []
+    "enAlts": [
+      "Failure is the mother of success."
+    ]
   },
   {
-    "id": "h_1hq3yb4",
+    "id": "h_10g1g40",
     "ja": "この仕事に「本当に」うんざりしている。２つの表現。",
-    "en": "I'm really fed up with this job.とam sick of this job",
-    "enAlts": []
+    "en": "I'm really fed up with this job.",
+    "enAlts": [
+      "I'm sick of this job."
+    ]
   },
   {
     "id": "h_1x8825u",
@@ -2022,16 +2264,18 @@
     "enAlts": []
   },
   {
-    "id": "h_hwaldw",
+    "id": "h_vkji0u",
     "ja": "まって、かみをセットする。",
-    "en": "hold on I need to do my hair.",
+    "en": "Hold on, I need to do my hair.",
     "enAlts": []
   },
   {
-    "id": "h_1u209fu",
+    "id": "h_w7sznx",
     "ja": "彼のファッションはダサい",
-    "en": "His fashions are out of style.",
-    "enAlts": []
+    "en": "His fashion is out of style.",
+    "enAlts": [
+      "His sense of style is outdated."
+    ]
   },
   {
     "id": "h_1shmvfc",
@@ -2046,16 +2290,20 @@
     "enAlts": []
   },
   {
-    "id": "h_7xkzew",
+    "id": "h_1v7ee45",
     "ja": "サーチの使い方",
-    "en": "search for = look for     serch the house for the key はカギを求めて家の中を探し回るという意味",
-    "enAlts": []
+    "en": "search for = look for",
+    "enAlts": [
+      "search the house for the key = カギを求めて家の中を探し回る"
+    ]
   },
   {
-    "id": "h_1n19vax",
+    "id": "h_1z009o",
     "ja": "おおきいこえではなして、小さい声ではなして",
-    "en": "could you speak more louder? more quietly",
-    "enAlts": []
+    "en": "Could you speak louder?",
+    "enAlts": [
+      "Could you speak more quietly?"
+    ]
   },
   {
     "id": "h_edm78v",
@@ -2070,9 +2318,9 @@
     "enAlts": []
   },
   {
-    "id": "h_1da0zc4",
+    "id": "h_qn5ypq",
     "ja": "きいたはなしを、、、いいアイデア、問題だね、たのしんだようだね、いそがしそうだね",
-    "en": "It sounds like a great idea, a problem, you had a great time, you are busy",
+    "en": "It sounds like a great idea, a problem, you had a great time, you are busy.",
     "enAlts": []
   },
   {
@@ -2082,27 +2330,31 @@
     "enAlts": []
   },
   {
-    "id": "h_agvkby",
+    "id": "h_gd1m83",
     "ja": "パソコンを起動する、再起動する",
-    "en": "I boot up the computer. reboot the computer",
+    "en": "boot up the computer, reboot the computer",
     "enAlts": []
   },
   {
-    "id": "h_1be5vsp",
+    "id": "h_1y5dgdj",
     "ja": "それはつらかったね、そうでもないよ",
-    "en": "That's been tough.　Not really.",
-    "enAlts": []
+    "en": "That's been tough.",
+    "enAlts": [
+      "Not really."
+    ]
   },
   {
-    "id": "h_bqvvjt",
+    "id": "h_1d7qn8o",
     "ja": "まじか～～～！",
-    "en": "what a heck",
-    "enAlts": []
+    "en": "What the heck!",
+    "enAlts": [
+      "No way!"
+    ]
   },
   {
-    "id": "h_p1yqu5",
+    "id": "h_42gh1",
     "ja": "彼を待つ余裕がなかった。その本を買う余裕がない",
-    "en": "We couldn’t afford to wait for him. I can’t afford to buy the book.",
+    "en": "We couldn't afford to wait for him. I can't afford to buy the book.",
     "enAlts": []
   },
   {
@@ -2118,63 +2370,69 @@
     "enAlts": []
   },
   {
-    "id": "h_1bja9s7",
-    "ja": "父が認知症になりはじめたことい気づいた。早急に医者につれていった。",
-    "en": "I noticed that my father begins to have dementia. So I let him see a doctor immidiatelry.",
+    "id": "h_3ix619",
+    "ja": "父が認知症になりはじめたことに気づいた。早急に医者につれていった。",
+    "en": "I noticed that my father began to have dementia, so I let him see a doctor immediately.",
     "enAlts": []
   },
   {
     "id": "h_dtlgba",
     "ja": "あの獣医はいいの？率直な意見を教えて",
     "en": "Is that vet good? I'd like to hear your frank opinion.",
-    "enAlts": []
+    "enAlts": [
+      "Is that vet good? I'd like your honest opinion."
+    ]
   },
   {
-    "id": "h_1r1nbmz",
+    "id": "h_5qz9rx",
     "ja": "そんな意味じゃないです",
-    "en": "I don't mean it",
-    "enAlts": []
+    "en": "I didn't mean it that way.",
+    "enAlts": [
+      "That's not what I meant."
+    ]
   },
   {
-    "id": "h_1hxdgt7",
+    "id": "h_dyqa75",
     "ja": "電話をとる、でんわをきる",
-    "en": "pick up the phone , hung up the phone",
+    "en": "pick up the phone, hang up the phone",
     "enAlts": []
   },
   {
-    "id": "h_1i896e4",
+    "id": "h_1ao87sy",
     "ja": "目薬、シリコンバレー",
-    "en": "eye drops、silicon valleyバリィー",
+    "en": "eye drops, Silicon Valley",
     "enAlts": []
   },
   {
-    "id": "h_9v6f75",
+    "id": "h_1toeh9p",
     "ja": "妥当だね！",
-    "en": "fair enough",
-    "enAlts": []
+    "en": "Fair enough.",
+    "enAlts": [
+      "That's reasonable."
+    ]
   },
   {
-    "id": "h_1vwof85",
+    "id": "h_1munkor",
     "ja": "ごめんいかなきゃ、あとではなそう",
-    "en": "sorry I gotta go talk later",
+    "en": "Sorry, I gotta go. Talk later.",
     "enAlts": []
   },
   {
-    "id": "h_hj2d8g",
+    "id": "h_60fkvn",
     "ja": "欠陥率を下げろ！",
-    "en": "Reduce defect rates",
+    "en": "Reduce defect rates!",
     "enAlts": []
   },
   {
-    "id": "h_51eoic",
+    "id": "h_mgzky6",
     "ja": "なにかあった？落ち込んでるようにみえるね。　lookとlook likeの違い",
-    "en": "What's the matter with you? You look depressed",
+    "en": "What's the matter with you? You look depressed.",
     "enAlts": []
   },
   {
-    "id": "h_1y54qua",
+    "id": "h_1p6fhmc",
     "ja": "レストランでメニューをみながら、もう少しお時間もらえますか？",
-    "en": "Can we get another minute,please?",
+    "en": "Can we get another minute, please?",
     "enAlts": []
   },
   {
@@ -2190,28 +2448,34 @@
     "enAlts": []
   },
   {
-    "id": "h_ds0k7e",
+    "id": "h_e1x1ro",
     "ja": "まあ、いっか。そういうもんだいね",
-    "en": "Oh well it happens",
+    "en": "Oh well, it happens.",
     "enAlts": []
   },
   {
     "id": "h_7fihci",
     "ja": "それは素晴らしいアイデアだねgreat 以外を使う",
     "en": "That's a brilliant idea.",
-    "enAlts": []
+    "enAlts": [
+      "That's a fantastic idea."
+    ]
   },
   {
-    "id": "h_1c89pqr",
+    "id": "h_qjrrlz",
     "ja": "私は熟睡しました",
-    "en": "I slept like a log",
-    "enAlts": []
+    "en": "I slept like a log.",
+    "enAlts": [
+      "I slept like a baby."
+    ]
   },
   {
     "id": "h_dmyp4x",
     "ja": "この仕事は彼には荷が重すぎる。",
     "en": "This task is beyond him.",
-    "enAlts": []
+    "enAlts": [
+      "This job is too much for him."
+    ]
   },
   {
     "id": "h_1rwaj0r",
@@ -2220,46 +2484,48 @@
     "enAlts": []
   },
   {
-    "id": "h_nwdtgb",
-    "ja": "ありがとう。あなたのおかげで言い一日だった",
+    "id": "h_7lxlof",
+    "ja": "ありがとう。あなたのおかげでいい一日だった",
     "en": "Thank you so much for today. You made my day.",
     "enAlts": []
   },
   {
-    "id": "h_q88525",
+    "id": "h_nfbsel",
     "ja": "彼の両親が許し続けるかぎり、彼はずっとわがままだ。",
-    "en": "He will be as selfish as his parents allow his atitude.",
+    "en": "He will be as selfish as his parents allow him to be.",
     "enAlts": []
   },
   {
-    "id": "h_16nz449",
+    "id": "h_i4nz9j",
     "ja": "大変な経験をたくさんした。でも全体的にすばらしい経験だった。忘れないよ。",
-    "en": "I had a lot of challenging experinces, but overall it was great experiences. I would never forget them.",
+    "en": "I had a lot of challenging experiences, but overall it was a great experience. I will never forget them.",
     "enAlts": []
   },
   {
-    "id": "h_1axcz93",
+    "id": "h_1y8f5sj",
     "ja": "実は話を少し盛っています",
-    "en": "Actually I am exaggerating the story a little bit.",
+    "en": "Actually, I am exaggerating the story a little bit.",
     "enAlts": []
   },
   {
-    "id": "h_np32pp",
+    "id": "h_8hmgd5",
     "ja": "マヨネーズの発音",
-    "en": "mayonnaiseメヤネーズ",
+    "en": "mayonnaise",
     "enAlts": []
   },
   {
-    "id": "h_54tt1y",
+    "id": "h_x48pcu",
     "ja": "きにしないで！ただの潔癖症なんだ。パンデミックで潔癖症になりました。",
-    "en": "Don’t mind me, I’m just a clean freak.The pandemic mede me a clean freak.",
+    "en": "Don't mind me, I'm just a clean freak. The pandemic made me a clean freak.",
     "enAlts": []
   },
   {
     "id": "h_2cziim",
     "ja": "家族はなんにんですか？",
     "en": "How big is your family?",
-    "enAlts": []
+    "enAlts": [
+      "How many people are in your family?"
+    ]
   },
   {
     "id": "h_r106hg",
@@ -2268,16 +2534,20 @@
     "enAlts": []
   },
   {
-    "id": "h_yebrkq",
+    "id": "h_1mch36o",
     "ja": "あなたが昇格したことに乾杯！ 自由に乾杯",
-    "en": "Here's to you get promoted　Here's to being free",
-    "enAlts": []
+    "en": "Here's to your promotion!",
+    "enAlts": [
+      "Here's to being free."
+    ]
   },
   {
     "id": "h_1fkgn2i",
     "ja": "ゲロはきそう",
     "en": "I feel like throwing up.",
-    "enAlts": []
+    "enAlts": [
+      "I'm gonna puke."
+    ]
   },
   {
     "id": "h_580wgr",
@@ -2286,21 +2556,25 @@
     "enAlts": []
   },
   {
-    "id": "h_5whyya",
+    "id": "h_wvfsam",
     "ja": "忙しそうだから手伝いますよ　becauseを使わずに。かたいから。",
-    "en": "I will help you as you look busy　as だから、　so なので",
-    "enAlts": []
+    "en": "I will help you as you look busy.",
+    "enAlts": [
+      "I'll help you since you look busy."
+    ]
   },
   {
     "id": "h_1qqpljx",
     "ja": "それは、あんまりだ。",
     "en": "That's too much.",
-    "enAlts": []
+    "enAlts": [
+      "That's not fair."
+    ]
   },
   {
-    "id": "h_1utxd04",
-    "ja": "飛行機は送れそうです。",
-    "en": "The flight will be delayed",
+    "id": "h_lkhrky",
+    "ja": "飛行機は遅れそうです。",
+    "en": "The flight will be delayed.",
     "enAlts": []
   },
   {
@@ -2313,18 +2587,20 @@
     "id": "h_uvg6ri",
     "ja": "このディスカッションは有意義でした。",
     "en": "This discussion was meaningful.",
-    "enAlts": []
+    "enAlts": [
+      "This was a productive discussion."
+    ]
   },
   {
-    "id": "h_1aotob3",
+    "id": "h_1n32b0p",
     "ja": "同じ意見、ぼートを使う",
-    "en": "we are on the same boat.",
+    "en": "We are in the same boat.",
     "enAlts": []
   },
   {
-    "id": "h_1oy9ka1",
+    "id": "h_163txdx",
     "ja": "民間人が飢餓に苦しんでいる",
-    "en": "Civilians are suffering from hunger",
+    "en": "Civilians are suffering from hunger.",
     "enAlts": []
   },
   {
@@ -2343,13 +2619,17 @@
     "id": "h_98bl6s",
     "ja": "彼は根性がある",
     "en": "He has a lot of guts.",
-    "enAlts": []
+    "enAlts": [
+      "He has grit."
+    ]
   },
   {
     "id": "h_1dauptm",
     "ja": "彼は、情け容赦ない。",
     "en": "He has no pity.",
-    "enAlts": []
+    "enAlts": [
+      "He is merciless."
+    ]
   },
   {
     "id": "h_1eeas3f",
@@ -2370,28 +2650,34 @@
     "enAlts": []
   },
   {
-    "id": "h_9wf1b5",
+    "id": "h_1aawber",
     "ja": "ワオ、しらなかった。",
-    "en": "Wow That's new to me.",
-    "enAlts": []
+    "en": "Wow, that's new to me.",
+    "enAlts": [
+      "Wow, I had no idea."
+    ]
   },
   {
-    "id": "h_uqencc",
+    "id": "h_12rj9c8",
     "ja": "往路チケット、復路チケット、往復チケット",
-    "en": "one way , return round trip",
+    "en": "one way, return, round trip",
     "enAlts": []
   },
   {
     "id": "h_oevwmj",
     "ja": "広々としたキッチンスペース",
     "en": "wide-open kitchen space",
-    "enAlts": []
+    "enAlts": [
+      "spacious kitchen"
+    ]
   },
   {
-    "id": "h_yl3z2w",
+    "id": "h_sefbcp",
     "ja": "彼の部門は、赤字です。黒字です",
-    "en": "His section is in the red.　in the black",
-    "enAlts": []
+    "en": "His section is in the red.",
+    "enAlts": [
+      "His section is in the black."
+    ]
   },
   {
     "id": "h_1hn5od1",
@@ -2403,18 +2689,22 @@
     "id": "h_18i4bm9",
     "ja": "私は毎日化粧をしています。",
     "en": "I wear makeup every day.",
-    "enAlts": []
+    "enAlts": [
+      "I put on makeup every day."
+    ]
   },
   {
     "id": "h_r6tdvo",
     "ja": "今日は比較的混んでいます。",
     "en": "It is comparatively crowded today.",
-    "enAlts": []
+    "enAlts": [
+      "It's relatively crowded today."
+    ]
   },
   {
-    "id": "h_i5qmsp",
+    "id": "h_1458p9l",
     "ja": "車いす利用者",
-    "en": "Wheelchair User",
+    "en": "wheelchair user",
     "enAlts": []
   },
   {
@@ -2424,15 +2714,15 @@
     "enAlts": []
   },
   {
-    "id": "h_esffac",
+    "id": "h_59u686",
     "ja": "久しぶりに母にあったとき、老けたなーと思った",
-    "en": "When I met my mother for the first time in a long time I thought she had aged",
+    "en": "When I met my mother for the first time in a long time, I thought she had aged.",
     "enAlts": []
   },
   {
-    "id": "h_6b5lig",
+    "id": "h_1mgn62a",
     "ja": "料理の食材を買おうよ",
-    "en": "Let's buy ingredients for cooking",
+    "en": "Let's buy ingredients for cooking.",
     "enAlts": []
   },
   {
@@ -2454,28 +2744,36 @@
     "enAlts": []
   },
   {
-    "id": "h_1xsa9ql",
+    "id": "h_1lzcgcx",
     "ja": "彼女は気を失った。２パターン",
-    "en": "she lost her consciousness. She fainted.",
-    "enAlts": []
+    "en": "She lost consciousness.",
+    "enAlts": [
+      "She fainted."
+    ]
   },
   {
     "id": "h_6tkpbq",
     "ja": "学歴社会",
     "en": "academic background society",
-    "enAlts": []
+    "enAlts": [
+      "credential-based society"
+    ]
   },
   {
-    "id": "h_f7rpf7",
+    "id": "h_11vkp8q",
     "ja": "本気だぞ！２つ",
-    "en": "I mean it. I am serious",
-    "enAlts": []
+    "en": "I mean it.",
+    "enAlts": [
+      "I am serious."
+    ]
   },
   {
-    "id": "h_a6tbjv",
+    "id": "h_z8zhn8",
     "ja": "疲労回復にはよく眠るのが一番です。",
-    "en": "The best way to recover from (get over) fatigue is to sleep well.",
-    "enAlts": []
+    "en": "The best way to recover from fatigue is to sleep well.",
+    "enAlts": [
+      "The best way to get over fatigue is to sleep well."
+    ]
   },
   {
     "id": "h_1kyiok6",
@@ -2487,7 +2785,9 @@
     "id": "h_e17h1z",
     "ja": "有名ブランドの偽物だね",
     "en": "It's a knock-off of a famous brand.",
-    "enAlts": []
+    "enAlts": [
+      "It's a counterfeit of a famous brand."
+    ]
   },
   {
     "id": "h_1ih13l3",
