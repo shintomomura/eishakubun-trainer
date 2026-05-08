@@ -216,9 +216,10 @@
     showCard();
     const idx = problems.findIndex((x) => x.id === p.id);
     els.problemId.textContent = idx >= 0 ? `#${idx + 1} / ${problems.length}` : `#${problems.length}`;
-    els.ja.textContent = p.ja;
-    els.en.textContent = p.en;
     const alts = Array.isArray(p.enAlts) ? p.enAlts : [];
+    const totalAnswers = 1 + alts.length;
+    els.ja.textContent = totalAnswers > 1 ? `${p.ja}（${totalAnswers}）` : p.ja;
+    els.en.textContent = p.en;
     els.altList.innerHTML = '';
     if (alts.length) {
       for (const a of alts) {
